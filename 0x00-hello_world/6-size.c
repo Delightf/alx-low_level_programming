@@ -1,8 +1,8 @@
-#include <stdio.h>
+#include <stcio.h>
 /**
- * main - To print the size of var types
+ * main - To print the sizeof var types
  *
- * return: 0
+ * Return: This will be 0
  */
 int main(void)
 {
